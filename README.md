@@ -1,7 +1,7 @@
 [![MasterHead](https://as1.ftcdn.net/v2/jpg/03/04/68/52/1000_F_304685223_ttVGVAkC5JlfgEOTO8KYbN4tjnRqM715.jpg)](https://piyush061990.io)
 <h1 align="center">Hi 👋, I'm Piyush Gupta</h1>
 <h3 align="center">A fervent Data Science Grad student & Aspiring Data Scientist</h3>
-
+<img align="center" alt="Coding" width="400" src="https://lh3.googleusercontent.com/pw/ADCreHcDnykloKpS-LcdXO8FXKTGCp_qw4atzhZCNOZNe_aLAfTbm2a2wM98EGyBFkoqO6W8urBe_GdcXwPSFbJy4y4aXAEFoek7qKzpIDcKtlfxh8itLJNi=w2400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyush061990&label=Profile%20views&color=0e75b6&style=flat" alt="piyush061990" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyush061990" alt="piyush061990" /></a> </p>
